@@ -1,5 +1,5 @@
 ---
-title:  Software Quality: Non-functional vs. functional requirements
+title:  "Software Quality: Non-functional vs. functional requirements"
 marp: true
 ---
 # Outline
