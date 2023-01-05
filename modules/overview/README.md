@@ -6,7 +6,7 @@ title: Overview of RE
 This module surveys the nature of RE and its relationship to other software engineering approaches.
 
 # Sub modules
-- [What is RE]('what is RE.md')
+- [What is RE](what%20is%20RE.md)
 - BA and RE
 - NFRs
 - Cynefin
@@ -17,11 +17,8 @@ This module surveys the nature of RE and its relationship to other software engi
 
 # Readings
 Beatty/Wiegers, Ch 1-2, 14, 20
-
 Easterbrook reading
-
 Kurtz and Snowden, "The New Dynamics of Strategy" (Cynefin article)
-
 Glinz, On Non-Functional Requirements
 
 # Slides

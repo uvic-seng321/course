@@ -49,15 +49,11 @@ math: mathjax
 
 [Easterbrook, Chapter 1]
 
-
-
 ----
 # A spectrum of software-intensive systems
-The type of system may determine how requirements are elicited, analyzed and negotiated
- 
+ ![width:700px](images/spectrum.png)
 
-
-----
+- - -
 # Requirements describe problems
 
 - Requirements describe the problem statement 
@@ -65,17 +61,17 @@ The type of system may determine how requirements are elicited, analyzed and neg
 - Ideal: separate the problem from solutions
 - Practice: very difficult to accomplish
 
-
 ----
 # Requirements Engineering: the tension between describing the problem vs. solution 
 
+![two worlds: problem and solution](images/jackson-env.png)
 
 
 
 ----
 # Requirements Specification: Bridging two different worlds
 
-
+![twin peaks](images/twin-peaks.png)
 
 
 ----
