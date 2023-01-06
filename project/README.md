@@ -14,9 +14,9 @@ The details of the assignments are as follows:
 - [Assignment 0 (not for marks): Learning Git and GitHub](https://classroom.github.com/a/2LyUppR2) (GitHub classroom link - make sure I know your GitHub username)
 - [Assignment 1 (5%): Discovering Solutions (individual)](assignment1.md)
 - [Assignment 2 (30%): Requirements documentation](assignment2.md)
-- Assignment 3 (5%): Continuous Integration Setup (individual) 
-- Assignment 4 (25%): TDD implementation
-- Assignment 5 (25%): BDD implementation
-- Assignment 6 (10%): Reflect and report (individual)
+- [Assignment 3 (5%): Continuous Integration Setup (individual)](assignment3.md) 
+- [Assignment 4 (25%): TDD implementation](assignment4.md)
+- [Assignment 5 (25%): BDD implementation](assignment5.md)
+- [Assignment 6 (10%): Reflect and report (individual)](assignment6.md)
 
-Click on the individual links to understand what each assignment entails. Generally speaking, the group assignments (2,4,5) will be far more involved.
+Click on the individual links to understand what each assignment entails. Generally speaking, the group assignments (2,4,5) will be far more involved and time-consuming, so plan accordingly.

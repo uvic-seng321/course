@@ -14,6 +14,8 @@ Extracting requirements from natural language sources.
 ## Week of Feb 27—Mar 3: 
 ## Week of Mar 6—10: 
 LTL
-## Week of Mar 13—17: 
+## Week of Mar 13—17: Testing with Cucumber and Selenium
+BDD tools
+UI testing tools
 ## Week of Mar 20—24: 
 ## Week of Mar 27—31: 
