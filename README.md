@@ -32,7 +32,6 @@ Brightspace has deadlines for quizzes, midterms, and project milestones. All sub
 ## Syllabus
 The official course syllabus is [distributed via HEAT](https://heat.csc.uvic.ca/coview/outline/2023/Spring/SENG/321) and is our contract for the course. You should read it carefully. 
 
-Just to 
 
 ### Past versions:
 
