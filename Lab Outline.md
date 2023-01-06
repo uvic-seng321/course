@@ -1,10 +1,11 @@
 # Lab Outline
 
-## Week of Jan 16: 
-Group formation. Idea selection. User stories on GitHub. GitHub kanban boards.
+## Week of Jan 16: Group setting
+Group formation. Ideation and project selection. User stories on GitHub. GitHub kanban boards.
+Requirements writing. 
 
 ## Week of Jan 23: Crowd-RE exercise
-Extracting requirements from natural language sources.
+Extracting requirements from natural language sources. 
 
 ## Week of Jan 30: 
 

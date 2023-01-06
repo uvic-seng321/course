@@ -10,27 +10,24 @@ title:  SENG 321 Software Requirements Engineering
 Brightspace has deadlines for quizzes, midterms, and project milestones. All submissions occur on Brightspace. Videos are posted on Brightspace in the Echo360 section. 
 
 ### Modules
-
-| Module           |   Week #  | Week            | Lecture 1                                  | Lecture 2                       | Lab 1 (Tues)                      | Lab 2 (Wed)  | Due                         | Offline activities        | Readings                                                 |
-| --------------- | -- | -------------- | ----------------------------------------- | ------------------------------ | -------------------------------- | ----------- | -------------------------- | ------------------------ | ------------------------------------------------------- |
-| What is RE       | 1   | Jan 9—13        | What is RE?                                | Agile RE vs Formal RE           | No lab                            | No lab       |                             | Class competence survey   | Text, ch1 and ch 2.1-2.7, Easterbrook, Kurtz and Snowden |
-| Elicitation      | 2   | Jan 16—20       | Quality Requirements                       | Quiz 1. RFPs                    | Proj Intro                        | RFP          |                             | Groups Assigned           | Glinz, on NFRs                                           |
-| Elicitation      | 3   | Jan 23—27       | Project Owner                              | Requirements Gathering.         | Spec template                     |              | RFP                         | Class Pacing Checkin      | Chapter 3,9                                              |
-| Specification    | 4   | Jan 30-Feb 3    | Quiz 2. Elicitation 2. Mining Requirements | Specs and Quality . Inspections | Work on RFP - no tutorial         |              | Requirements Document       | Peer review 1             | Chapter 5                                                |
-|                  | 5   | Feb 6—10        | Midterm review                             | Midterm 1                       | Inspections explained. Redo RD1   |              | Inspections                 |                           |                                                          |
-| Analysis         | 7   | Feb 13—17       | Analysis and Modeling I                    | Analysis and Modeling 2         | Use Cases                         |              | Come back with less stress! |                           | Chapter 4                                                |
-|                  | 6   | Feb 20—24       | Reading Week                               | Reading Week                    | Reading Week                      | Reading Week | RSD 1 - Goal Model          |                           |                                                          |
-| Analysis         | 8   | Feb 27—Mar 3    |                                            | Quiz 3.                         | DFDs                              |              | RSD 1 - Use Cases           | Peer 2                    | Chap 10,12.4-7                                           |
-| Validation       | 9   | Mar 6—10        | UI Modeling                                | Quiz 4. V&V Model checking/LTL  | UI modeling                       |              | RSD 2 - DFD                 |                           | Chapter 6                                                |
-| RE Process       | 10  | Mar 13—17       | LTL                                        | Prioritization/change           | Traceability matrix LTL exercises |              |                             | Peer 3                    |                                                          |
-| Process/Emerging | 11  | Mar 20—24       | Traceabilty                                | Quiz 5. RE and ML               | Traceabiity                       |              |                             | Presentation              | ML Readings                                              |
-| Emerging Topics  | 12  | Mar 27—31       | Distributed RE /                           | Selected Project demos          |                                   |              | RSD 2 - UI Diagrams         |                           |                                                          |
-|                  | 13  | Apr 3—7         | Midterm 2                                  | Buffer/office hours             |                                   |              | RSD 2.0/Final Report        | Peer 4                    |                                                          |
-|                  |     | Apr 11 — Apr 26 | Exam Period                                |                                 |                                   |              |                             | Project final deliverable |                                                          |
-
+|     | Week         | Module          | Lecture 1                 | Lecture 2                 | Lab 1 (Tues) | Lab 2 (Wed) | Due       |
+| :-- | :----------- | :-------------- | :------------------------ | :------------------------ | :----------- | :---------- | :-------- |
+| 1   | Jan 9—13     | Overview        | M1-1, M1-2                | M1-3,M1-4,M1-5            | No lab       | No lab      | A0/A1     |
+| 2   | Jan 16—20    | Overview        | M1-6, M1-7                | Quiz 1. M1-8              |              |             | A2 - idea |
+| 3   | Jan 23—27    | Elicitation     | Guest: Zane Li - crowd RE | Guest: Navneet Popli - BA |              |             |           |
+| 4   | Jan 30-Feb 3 | Elicit          | Quiz 2.                   |                           |              |             |           |
+| 5   | Feb 6—10     | Analysis        | Midterm review            | Midterm 1                 |              |             | A2        |
+| 7   | Feb 13—17    | Analysis        |                           |                           |              |             | A3        |
+| 6   | Feb 20—24    |                 | Reading Week              | Reading Week              |              |             |           |
+| 8   | Feb 27—Mar 3 | Analysis        |                           | Quiz 3.                   |              |             |           |
+| 9   | Mar 6—10     | Specify         |                           | Quiz 4.                   |              |             |           |
+| 10  | Mar 13—17    | Specify         |                           |                           |              |             | A4        |
+| 11  | Mar 20—24    | Specify         |                           | Quiz 5.                   |              |             |           |
+| 12  | Mar 27—31    | Emerging Topics |                           |                           |              |             |           |
+| 13  | Apr 3—7      |                 | Midterm 2                 | Buffer/office hours       |              |             | A5 and A6 |
 
 ### Lab Schedule
-* [Lab schedule](labs.md)
+* [Lab schedule](Lab%20Outline.md)
 
 ## Syllabus
 The official course syllabus is [distributed via HEAT](https://heat.csc.uvic.ca/coview/outline/2023/Spring/SENG/321) and is our contract for the course. You should read it carefully. 
