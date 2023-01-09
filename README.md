@@ -12,8 +12,8 @@ Brightspace has deadlines for quizzes, midterms, and project milestones. All sub
 ### Modules
 |     | Week         | Module          | Lecture 1                 | Lecture 2                 | Lab 1 (Tues) | Lab 2 (Wed) | Due       |
 | :-- | :----------- | :-------------- | :------------------------ | :------------------------ | :----------- | :---------- | :-------- |
-| 1   | Jan 9—13     | Overview        | M1-1, M1-2                | M1-3,M1-4,M1-5            | No lab       | No lab      | A0/A1     |
-| 2   | Jan 16—20    | Overview        | M1-6, M1-7                | Quiz 1. M1-8              |              |             | A2 - idea |
+| 1   | Jan 9—13     | [Overview](modules/overview/README.md)       | M1-1, M1-2                | M1-3,M1-4,M1-5            | No lab       | No lab      | A0/A1     |
+| 2   | Jan 16—20    | [Overview](modules/overview/README.md)          | M1-6, M1-7                | Quiz 1. M1-8              |              |             | A2 - idea |
 | 3   | Jan 23—27    | Elicitation     | Guest: Zane Li - crowd RE | Guest: Navneet Popli - BA |              |             |           |
 | 4   | Jan 30-Feb 3 | Elicit          | Quiz 2.                   |                           |              |             |           |
 | 5   | Feb 6—10     | Analysis        | Midterm review            | Midterm 1                 |              |             | A2        |
