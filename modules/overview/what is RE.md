@@ -40,7 +40,7 @@ math: mathjax
 
 - Soft systems methods suited for wicked problems
 - Soft Systems methods adopt a Human-centered design view where:
-- RE = continuing negotiation process  between multiple perspectives
+  - RE = continuing negotiation process  between multiple perspectives
 - The design of software is inseparable from the  task of defining the human activities  supported by that software 
   
 ----
@@ -81,18 +81,17 @@ Build a Machine, S, such that alongside world Knowledge K, Requirements R, are e
 
 $K, S ⊢ R$
 
-Revision: Find Plans P that non-monotonically entail the Goals, Qualities, and Preferences A that were elicited
-$P,K ⊢ G, Q, A$
+<!-- Revision: Find Plans P that non-monotonically entail the Goals, Qualities, and Preferences A that were elicited -->
+<!-- $P,K ⊢ G, Q, A$ -->
 
 
 ----
 # Elements of the Requirements Problem
 
-- Goals: desires of the stakeholders
-- Attitudes: preferences of the stakeholders
-- Qualities: desired quality constraints
-- Plans: tasks, specifications that stakeholders will carry out
-- Domain assumptions K: assertions and declarations about the world.
+- Goals and requirements: desires of the stakeholders
+  - Qualities: desired quality constraints
+- Specifications: tasks that stakeholders and software will carry out
+- World knowledge and domain assumptions K: assertions and declarations about the world.
 
 
 ----

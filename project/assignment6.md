@@ -10,6 +10,7 @@ This assignment involves writing a reflective report on your experience of pract
 * From your experience, what requirements are more suitable for test driven development and behavior-driven development? How?
 * Which of the two would you prefer to practice on future software projects? Why?
 * What problems did you face and how did you overcome those problems?
+* What are the ethical implications of the work you did? 
 * What went well when using TDD / BDD?
 * What lessons did you learn which you would like to apply on future software projects?
 3 Submission
