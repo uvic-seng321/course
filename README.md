@@ -3,7 +3,7 @@ author: Neil Ernst
 title:  SENG 321 Software Requirements Engineering
 ---
 
-(Note: navigate to a specific topic/heading using the TOC button (three dots and three lines) to the top right)
+(Note: navigate to a specific topic/heading using the TOC button (three dots and three lines) to the top left)
 
 ## Schedule and Topics
 
