@@ -4,7 +4,7 @@ title: SENG 321 Group Project overview
 ---
 
 # Overview
-This is a project-based course. Students will elicit and document requirements and use test- driven development and behavior-driven development techniques. The project will be completed in groups of 3-4 students.
+This is a project-based course. Students will elicit and document requirements and use test- driven development and behavior-driven development techniques. The project will be completed in groups of 4-5 students.
 
 You should know how to use Github and be able to write basic Javascript code and tests. If you are not familiar with Github, "Assignment 0" will help. 
 
