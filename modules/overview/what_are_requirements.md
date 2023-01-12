@@ -4,9 +4,11 @@ marp: true
 ---
 # Outline
 Requirements describe problems
+
 The what vs. how tension, and the role of the Reqts Spec
 
 Sources of requirements
+
 Types of requirements
 
 
