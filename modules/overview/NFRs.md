@@ -159,7 +159,7 @@ Quality and quantity of software documentation
 ----
 # Software reliability
 
-Besides maintainability, reliability is seen as one of the most important software attribute when quality is being assessed, as unreliable systems are discarded or never brought into use.  
+Besides maintainability, reliability is seen as one of the most important software attribute when quality is being assessed, as unreliable systems are discarded or never brought into use. 
 
 Reliability metrics:
 
@@ -167,15 +167,16 @@ Probability of failure on demand: a measure of the likelihood that the system wi
 
 It is most relevant for safety-critical systems and 'non-stop' systems whose continuous operation is critical. In these systems, a measure of fault occurrence is less important than the chance that the system will not perform as expected.  
 
+----
 Rate of fault occurrence (ROF): a measure of the frequency of occurrence with which unexpected behavior is likely to be observed. 
 
-For example, if the ROCOF is 2/100 this indicates that two faults are likely to occur in each 100 operational time units. Appropriate time units may vary, depending on the system.  
+For example, if the ROCOF is 2/100 this indicates that two faults are likely to occur in each 100 operational time units. Appropriate time units may vary, depending on the system.
 
-Mean time to failure (MTTF): a measure of the time between observed failures.  
+Mean time to failure (MTTF): a measure of the time between observed failures.
 
 
 ----
-# 
+# Availability
 
 Availability: a measure of how likely the system is to be available for use. 
 
@@ -184,17 +185,19 @@ For example, an availability of 998/1000 means that, in every 1000 time units, t
 Availability metric:
 
 the ratio of observed uptime to the sum of the uptime and downtime: 
-A = Tup / (Tup + Tdown)   (a single system) 
+$A = T_{up} / (T_{up} + T_{down})$ (a single system)
 
-the ratio of systems up at some instant to the size of the population studied  (multiple systems).  
-
+the ratio of systems up at some instant to the size of the population studied (multiple systems).  
 
 ----
-# Group exercise
+![AWS availability in time](https://www.onsip.com/hs-fs/hubfs/five-9s-breakdown-aws.jpeg?width=636&name=five-9s-breakdown-aws.jpeg)
 
-In project teams:
-Generate a list of relevant NFRs for your customer
-Take 2 of those NFRs and create 2 simple scenarios.
+----
+# Exercise
+
+With a colleague:
+Pick a relevant NFRs for the course registration example.
+Create a Quality Attribute Scenario (stimulus, response, response measure)
 
 Hint: “relevant” usually means “important to business success”
 
@@ -202,7 +205,8 @@ Hint: “relevant” usually means “important to business success”
 ----
 # In summary
 
-
+QAS make a quality requirement, AKA non-functional requirement, testable and therefore achievable.
+Quality requirements usually have big architectural implications. 
 
 
 ----
