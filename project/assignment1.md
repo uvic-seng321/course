@@ -17,7 +17,7 @@ Put all required information into a table using the following format:
 | #1 | Yes or no (and why) | Problem or solution | Rewritten text     |
 
 # Submission
-A single pdf file should be submitted and should be named A1_\<username\>.pdf. The document should include your name and id, the course number and course name, the name of the assignment, and the submission date. All submissions should be done via Brightspace.
+A single pdf file should be submitted and should be named A1_\<username\>.pdf. The document should include your name and id, the course number and course name, the name of the assignment, and the submission date. All submissions should be done via Brightspace. *Update: username refers to your UVic netlink ID*.
 
 # Marking Criteria
 This assignment is worth 5%. Your ability to correctly critique the attached user stories is being assessed. A rubric is available on Brightspace.
