@@ -1,6 +1,6 @@
 # Assignment Deadlines
 1. 2 weeks before deadline: Project groups formed with group name and repo.
-2. 11 days before deadline: Project ideas due on Brightspace and in lab. TAs will give feedback. 
+2. 11 days before deadline: [Project ideas](a2-ideas.md) due on Brightspace. TAs will give feedback. 
 4. 11-1 days prior: data gathering and follow-up meetings with potential users as needed
 5. 0 days prior: all materials due on Brightspace.
 

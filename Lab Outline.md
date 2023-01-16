@@ -1,18 +1,19 @@
 # Lab Outline
 
 ## Week of Jan 16: Group setting
-- Group formation. Ideation and project selection. Project setup.
+- Group formation. [Ideation and project selection. Project setup.](labs/project-overview.md)
   || Example from practice: dealing with Agile Requirements |text chapter 20 ||
-- User stories on GitHub. GitHub kanban boards.
-- Requirements writing. 
+- [User stories on GitHub. GitHub project boards](labs/github-reqs.md).
+- [Requirements writing](labs/writing-req.md). 
 
 ## Week of Jan 23: Crowd-RE exercise
-- Extracting requirements from natural language sources. 
-- Github Actions
-- GitHub Codespaces
+- Hands on explore project 
 
 ## Week of Jan 30: 
+- Github Actions
+- - Extracting requirements from natural language sources. 
 
+- GitHub Codespaces
 ## Week of Feb 6—10: 
 ## Week of Feb 13—17: 
 ## Week of Feb 20—24: 
