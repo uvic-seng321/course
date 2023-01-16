@@ -60,7 +60,7 @@ University and department policies on professional conduct and integrity are app
 Available on [HEAT](https://heat.csc.uvic.ca/coview/outline/2023/Spring/SENG/321).
 
 ## Project
-Project details are [on the project page](/project.md). Due dates and submission are all managed via Brightspace.
+Project details are [on the project page](/project). Due dates and submission are all managed via Brightspace.
 
 ## Quizzes
 Quizzes will be completed on Brightspace so please bring something with internet access on those days.
