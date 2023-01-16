@@ -10,21 +10,21 @@ title:  SENG 321 Software Requirements Engineering
 Brightspace has deadlines for quizzes, midterms, and project milestones. All submissions occur on Brightspace. Videos are posted on Brightspace in the Echo360 section. 
 
 ### Modules
-|     | Week         | Module          | Lecture 1                 | Lecture 2                 | Lab 1 (Tues) | Lab 2 (Wed) | Due       |
-| :-- | :----------- | :-------------- | :------------------------ | :------------------------ | :----------- | :---------- | :-------- |
-| 1   | Jan 9—13     | [Overview](modules/overview/README.md)       | M1-1               | M1-2 M1-3,M1-4,M1-5            | No lab       | No lab      | A0/A1     |
-| 2   | Jan 16—20    | [Overview](modules/overview/README.md)          | M1-6, M1-7                | Quiz 1. M1-8              |              |             | A2 - idea |
-| 3   | Jan 23—27    | Elicitation     | Guest: Zane Li - crowd RE | Guest: Navneet Popli - BA |              |             |           |
-| 4   | Jan 30-Feb 3 | Elicit          | Quiz 2.                   |                           |              |             |           |
-| 5   | Feb 6—10     | Analysis        | Midterm review            | Midterm 1                 |              |             | A2        |
-| 7   | Feb 13—17    | Analysis        |                           |                           |              |             | A3        |
-| 6   | Feb 20—24    |                 | Reading Week              | Reading Week              |              |             |           |
-| 8   | Feb 27—Mar 3 | Analysis        |                           | Quiz 3.                   |              |             |           |
-| 9   | Mar 6—10     | Specify         |                           | Quiz 4.                   |              |             |           |
-| 10  | Mar 13—17    | Specify         |                           |                           |              |             | A4        |
-| 11  | Mar 20—24    | Specify         |                           | Quiz 5.                   |              |             |           |
-| 12  | Mar 27—31    | Emerging Topics |                           |                           |              |             |           |
-| 13  | Apr 3—7      |                 | Midterm 2                 | Buffer/office hours       |              |             | A5 and A6 |
+|     | Week         | Module                                 | Lecture 1                 | Lecture 2                 | Lab 1 (Tues) | Lab 2 (Wed) | Due       |
+| :-- | :----------- | :------------------------------------- | :------------------------ | :------------------------ | :----------- | :---------- | :-------- |
+| 1   | Jan 9—13     | [Overview](modules/overview/README.md) | M1-1                      | M1-2                      | No lab       | No lab      | A0/A1     |
+| 2   | Jan 16—20    | [Overview](modules/overview/README.md) | M1-3, M1-4                | Quiz 1. M1-5 M1-6         | Project      | Writin Req  | A2 - idea |
+| 3   | Jan 23—27    | Elicitation                            | Guest: Zane Li - crowd RE | Guest: Navneet Popli - BA |              |             |           |
+| 4   | Jan 30-Feb 3 | Elicit                                 | Quiz 2.                   |                           |              |             |           |
+| 5   | Feb 6—10     | Analysis                               | Midterm review            | Midterm 1                 |              |             | A2        |
+| 7   | Feb 13—17    | Analysis                               |                           |                           |              |             | A3        |
+| 6   | Feb 20—24    |                                        | Reading Week              | Reading Week              |              |             |           |
+| 8   | Feb 27—Mar 3 | Analysis                               |                           | Quiz 3.                   |              |             |           |
+| 9   | Mar 6—10     | Specify                                |                           | Quiz 4.                   |              |             |           |
+| 10  | Mar 13—17    | Specify                                |                           |                           |              |             | A4        |
+| 11  | Mar 20—24    | Specify                                |                           | Quiz 5.                   |              |             |           |
+| 12  | Mar 27—31    | Emerging Topics                        |                           |                           |              |             |           |
+| 13  | Apr 3—7      |                                        | Midterm 2                 | Buffer/office hours       |              |             | A5 and A6 |
 
 ### Lab Schedule
 * [Lab schedule](Lab%20Outline.md)

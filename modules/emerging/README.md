@@ -12,7 +12,7 @@ This is a module that covers new topics in RE, including the use of RE for ML, a
 # Sub modules
 - NLP and RE
 - RE for and with ML
-
+|| Risk management | text chapter 32 ||  
 
 # Readings
 
