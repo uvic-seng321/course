@@ -81,8 +81,8 @@ Quality attribute requirements (QAR), aka non functional requirements (NFRs) des
 
 - NFRs often “architecturally significant”
 - Get these wrong and cost/effort increase
-- Frequently “fuzzy” and hard to sell to mgmt
-- Soln: “quality attribute scenarios”
+- Frequently “fuzzy” and hard to sell to management
+- Solution: “quality attribute scenarios”
 - Measurable, prioritized ‘tests’ of a system’s qualities
 
 
@@ -216,6 +216,5 @@ Pressman, R. Software Engineering: A practitioner’s approach, McGraw-Hill, 199
 
 Mylopoulos, J., Chung, L. and Nixon, B. Representing and using nonfunctional requirements: a process-oriented approach, IEEE Transactions of software engineering, 18(6), 1992
 
-Boehm, B.W., Brown, J.R., Kaspar, M., and M. Lipow, Characteristics of Good Software, Amsterdam: North Holland, 1978 
-
+Bass, Clements, Kazman. "Software Architecture in Practice". Addison-Wesley, 2020, 4th ed.
 
