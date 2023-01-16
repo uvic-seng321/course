@@ -1,7 +1,8 @@
 # Lab Outline
 
 ## Week of Jan 16: Group setting
-- Group formation. Ideation and project selection. 
+- Group formation. Ideation and project selection. Project setup.
+  || Example from practice: dealing with Agile Requirements |text chapter 20 ||
 - User stories on GitHub. GitHub kanban boards.
 - Requirements writing. 
 
