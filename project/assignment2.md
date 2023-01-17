@@ -44,14 +44,13 @@ Identify the customers and users of this tool using a stakeholder map like that 
 ## Step 2 Requirement extraction:
 Requirements come from a variety of sources, including existing products, user feedback, crowd-sourced conversations, and interviews and surveys. Use some combination of these to derive a set of requirements for your product or additional features.
 
-Use the NLP tools we examined to extract well known features from the crowd-RE data (e.g., Reddit threads). You should supplement this with some of the following:
-- existing feature roadmaps (e.g. on GitHub)
-- interviewing other users (such as your friends or existing users/devs) 
-- extracting requirements from older products or similar products.
+Use  NLP and crowd-sourcing tools that we examined to extract well known features from the crowd-RE data (e.g., Reddit threads). You must supplement this with at least one of the following:
+- **interviewing** other users (such as your friends or existing users/devs).
+- **extracting** requirements from older products or similar products.
 
 Your goal is to produce a set of at **least 10 user stories**. You will write user stories (on GitHub, using issues) through an iterative process. Your submission should include a draft version, with some high level ideas; a refined version 2, where you identify 10 user stories; and the final version, 3, which has been validated with existing users. A lot of the marks in this assignment are based on *where* the requirements came from and *how well* you justify their importance. Merely saying your team thinks they are useful is not sufficient.
 
-Required documention includes:
+Required documentation includes:
 
 ### Project overview (1 page max). 
 This should provide a brief description of the project, why it is needed and the overall goals of the software.
@@ -69,7 +68,7 @@ For each user story on the story map, a user story **on GitHub** should be creat
 ### References: Any other documents that were used or consulted to develop the requirements should be referenced.
 
 ### Appendices:
-1. Preparation. An appendix that includes all oftechniques your team used to find requirements. If you did interviews with friends or acquaintances, include the initial set of prepared interview questions , uploaded to the Brightspace assignment on the due date listed.
+1. Preparation. An appendix that includes all of techniques your team used to find requirements. If you did interviews with friends or acquaintances, include the initial set of prepared interview questions , uploaded to the Brightspace assignment on the due date listed.
 2. Elicitation evidence. All meetings, online repositories, and other forms of elicitation should be listed
 (with the date, who participated, and any other relevant details).
 
@@ -94,7 +93,9 @@ If you have a legitimate reason for submitting late, discuss this with the lectu
 # Appendix: Potential Projects
 A simple version of this project is to find an open feature request and expand on that. For example, [Node](https://github.com/nodejs/node/labels/feature%20request) has a bunch of open feature requests that conceivably count. Two problems: 1, these are likely beyond of your abilities to fix; 2, they are already pretty well specified, so there isn't a lot of RE to do. So you should find feature requests for a product that aren't well specified (yet). 
 
-1. **Mastodon**: searching Mastodon's decentralized graph is non-trivial. A project could build a search function proof of concept, expanding on the specific user stories to build an MVP. See https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search
+1. **Mastodon**: searching Mastodon's decentralized graph is non-trivial. A project could build a search function proof of concept, expanding on the specific user stories to build an MVP. See https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search. Keep in mind that every Mastodon instance has its own terms of service, so you will need to be careful about what you do.
 3. Build some new feature on **existing APIs** like GitHub's or Stack Overflow. For example, maybe you have a "ChatGPT" detector that you could build using the API.
-4. Existing clubs: your team could cozy up to the members of FormulaSAE, Robotics, CubeSat, GameDev, etc. Those students are a good source of ideas, would be excellent to interview, and  work on cool projects. Maybe you want to build a "FormulaSAEBot" for their Discord. 
-5. Better Scientific Software: talk with your chemistry or sceince friends about a programming problem they have, e.g. with an open source library for analyzing CERN data. Mine CERN mailing lists for support.
+4. **Existing clubs**: your team could cozy up to the members of FormulaSAE, Robotics, CubeSat, GameDev, etc. Those students are a good source of ideas, would be excellent to interview, and  work on cool projects. Maybe you want to build a "FormulaSAEBot" for their Discord. 
+5. **Better Scientific Software**: talk with your chemistry or science friends about a programming problem they have, e.g. with an open source library for analyzing CERN data. Mine CERN mailing lists for support.
+6. **Bus scheduling**: BC Transit has an API. Build a better bus schedule app. One problem is to figure out what bay to catch a bus at.
+7. **Leaderboard** for \<your preferred video game\>. UVic has a reasonably active e-sports Discord. You could build a bot that keeps track of the scores of the games, or helps UVic students manage tournaments.

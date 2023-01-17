@@ -1,8 +1,8 @@
 # Lab Outline
 
 ## Week of Jan 16: Group setting
-- Group formation. [Ideation and project selection. Project setup.](labs/project-overview.md)
-  || Example from practice: dealing with Agile Requirements |text chapter 20 ||
+- [Group formation. Ideation and project selection. Project setup.](labs/project-overview.md)
+ 
 - [User stories on GitHub. GitHub project boards](labs/github-reqs.md).
 - [Requirements writing](labs/writing-req.md). 
 
@@ -13,7 +13,8 @@
 - Github Actions
 - Extracting requirements from natural language sources. 
 - GitHub Codespaces
-
+- Example from practice: dealing with Agile Requirements - text chapter 20 
+  
 ## Week of Feb 6—10: 
 - Story Maps
 - prioritizing with MOSCOW
