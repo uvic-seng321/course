@@ -7,34 +7,36 @@
 - [Requirements writing](labs/writing-req.md). 
 
 ## Week of Jan 23: Crowd-RE exercise
-- Hands on explore project 
+- Hands on - explore project crowd sources. Generate a list of nascent feature requests that you can turn into requirements. 
 
 ## Week of Jan 30: 
 - Github Actions
-- - Extracting requirements from natural language sources. 
-
+- Extracting requirements from natural language sources. 
 - GitHub Codespaces
+
 ## Week of Feb 6—10: 
-## Week of Feb 13—17: 
-## Week of Feb 20—24: 
-## Week of Feb 27—Mar 3: 
-## Week of Mar 6—10: 
-## Week of Mar 13—17: Testing with Cucumber and Selenium
-
-## Week of Mar 20—24: 
-## Week of Mar 27—31: 
-
-Other:
-- NLP for RE (Zane)
 - Story Maps
 - prioritizing with MOSCOW
-- ambiguity detection
-- CTL
-- inspections and analysis
+
+## Week of Feb 13—17: 
 - teamwork
 - TDD and XUnit testing
+
+## Week of Feb 20—24: 
+- inspections and analysis
+- ambiguity detection
+
+## Week of Feb 27—Mar 3: 
 - traceability 
 - DFDs?
+
+## Week of Mar 6—10: 
+## Week of Mar 13—17: 
+- Testing with Cucumber and Selenium
 - BDD tools
-- LTL
-- UI testing tools
+
+## Week of Mar 20—24: 
+- CTL/LTL
+
+## Week of Mar 27—31: 
+- Agile retrospectives
