@@ -20,7 +20,7 @@ Brightspace has deadlines for quizzes, midterms, and project milestones. All sub
 | 7   | Feb 13—17    | Analysis                               |                           |                                                           |              |             | A3        |
 | 6   | Feb 20—24    |                                        | Reading Week              | Reading Week                                              |              |             |           |
 | 8   | Feb 27—Mar 3 | Analysis                               |                           | **Quiz 3**.     Tentative Guest Lecture from MIS/Business |              |             |           |
-| 9   | Mar 6—10     | Specify                                |                           | **Quiz 4**.                                               |              |             |           |
+| 9   | Mar 6—10     | Specify                                |                           | **Quiz 4**. Guest lecture, MIS                                              |              |             |           |
 | 10  | Mar 13—17    | Specify                                |                           |                                                           |              |             | A4        |
 | 11  | Mar 20—24    | Specify                                |                           | **Quiz 5**.                                               |              |             |           |
 | 12  | Mar 27—31    | Emerging Topics                        |                           |                                                           |              |             |           |
