@@ -37,3 +37,21 @@ title: Business Rules and Activity Diagrams
 ----
 ![](tornadoguard.png)
 
+----
+# Writing Business Rules
+* Keep them atomic (no disjunctions or conjunctions (table 9.3))
+* Store business rules in a catalog. 
+* Uncover them:
+  * Sometimes they appeared as stored procedures in a db.
+  * Reverse engineer from logic in the software.
+  * Government regulation.
+  * Business process modeling.
+
+----
+# Activity Diagrams
+A visual representation of a business process or rule.
+See Fig 8-4.
+
+----
+# Exercise
+Draw an activity diagram on the whiteboard representing your team's app.
