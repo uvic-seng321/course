@@ -13,7 +13,7 @@ An early task in RE is to understand what requirements users actually have. And 
 
 | #   | Topic                                                                                   | Readings     | Exercises         |
 | --- | --------------------------------------------------------------------------------------- | ------------ | ----------------- |
-| 2-1 | [Summary of Requirements elicitation](popli-Requirement%20Elicitation%20Techniques.pdf) | Text, Ch 5,7 |                   |
+| 2-1 | [Summary of Requirements elicitation (Popli)](popli-Requirement%20Elicitation%20Techniques.pdf) | Text, Ch 5,7 |                   |
 | 2-2 | [Biz Goals and Biz Rules and Activity Diagrams](biz_rules.md)                           | Ch 9         |                   |
 | 2-3 | [User Modeling and Use Cases](UseCases.pdf)                                             | Ch 8         | Use Case Sketches |
 | 2-4 | Techniques: Interviews and Survey Questionnaires                                        |              | Mock Interview    |
