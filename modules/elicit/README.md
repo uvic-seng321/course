@@ -10,19 +10,21 @@ An early task in RE is to understand what requirements users actually have. And 
 - Select between different elicitation approaches and know the advantages and disadvantages of each.
 
 # Sub modules
-- Summary (Req elicit)
-- Biz Goals and Biz Rules and Activity Diagrams
-- User modeling and Use Cases
-- Techniques: questionnaires [Questionnaires and group techniques]()
-- Techniques: interviews (Interviewing Tips)
-- Techniques: NLP/ML *ML4RE slides.
-- Example (Outsourced)
+
+| #   | Topic                                                                                   | Readings     | Exercises         |
+| --- | --------------------------------------------------------------------------------------- | ------------ | ----------------- |
+| 2-1 | [Summary of Requirements elicitation](popli-Requirement%20Elicitation%20Techniques.pdf) | Text, Ch 5,7 |                   |
+| 2-2 | [Biz Goals and Biz Rules and Activity Diagrams](biz_rules.md)                           | Ch 9         |                   |
+| 2-3 | [User Modeling and Use Cases](UseCases.pdf)                                             | Ch 8         | Use Case Sketches |
+| 2-4 | Techniques: Interviews and Survey Questionnaires                                        |              | Mock Interview    |
+| 2-5 | Outsourcing and Requirements - [RFPs](RFP_template.pdf)                                                           | Text Ch 23   |                   |
+| 2-6 | Using NLP to find Requirements                                                          |              |                   |
 
 
 # Readings
-Text chapters 5,6,7,8, 23
-
-[Interview tips](interview_tips.md)
+* [Use Case Example](Use%20Case%20example.pdf)
+* [Interview tips](interview_tips.md)
+* 
 
 # Exercises
-* Interview your neighbor about their favorite social media app. 
+*  

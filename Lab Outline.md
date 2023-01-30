@@ -13,7 +13,6 @@
 - Github Actions
 - Extracting requirements from natural language sources. 
 - GitHub Codespaces
-- Example from practice: dealing with Agile Requirements - text chapter 20 
   
 ## Week of Feb 6—10: 
 - Story Maps
