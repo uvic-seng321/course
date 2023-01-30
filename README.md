@@ -16,7 +16,7 @@ Brightspace has deadlines for quizzes, midterms, and project milestones. All sub
 | 2   | Jan 16—20    | [Overview](modules/overview/README.md)  | M1-3, M1-4                | **Quiz 1.** M1-5 M1-6                                     | Project      | Writin Req  | A2 - idea |
 | 3   | Jan 23—27    | [Elicitation](modules/elicit/README.md) | Guest: Zane Li - crowd RE - M2-7 | Guest: Navneet Popli - M2-1                               | Project      | Project     |           |
 | 4   | Jan 30-Feb 3 | [Elicitation](modules/elicit/README.md) | **Quiz 2.**  M2-2         | M2-3, M2-4   M2-5 M2-6                                    |              |             |           |
-| 5   | Feb 6—10     | Analysis                                | Midterm review            | **Midterm 1**                                             |              |             | A2        |
+| 5   | Feb 6—10     | Analysis                                | M3-1, Midterm review            | **Midterm 1**                                             |              |             | A2        |
 | 7   | Feb 13—17    | Analysis                                |                           |                                                           |              |             | A3        |
 | 6   | Feb 20—24    | *Break*                                 | *Reading Week *           | *Reading Week *                                           |              |             |           |
 | 8   | Feb 27—Mar 3 | Analysis                                |                           | **Quiz 3**.     Tentative Guest Lecture from MIS/Business |              |             |           |
