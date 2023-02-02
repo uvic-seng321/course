@@ -15,6 +15,9 @@ title: Business Rules and Activity Diagrams
 ---- 
 # Definition
 > “A business rule is a statement that defines or constrains some aspect of the business. It is intended to assert business structure or to control or influence the behavior of the business.”
+
+Recall: "business" also means organization, group, customer ... so the "funder" of the information system.
+
 * Facts ('no GST on food')
 * Constraints ('only 30 books checked out')
 * Inferences ('if X holds, Y also holds')
@@ -45,12 +48,15 @@ title: Business Rules and Activity Diagrams
   * Sometimes they appeared as stored procedures in a db.
   * Reverse engineer from logic in the software.
   * Government regulation.
-  * Business process modeling.
+  * Business process modeling, such as with activity diagrams.
 
 ----
 # Activity Diagrams
 A visual representation of a business process or rule.
-See Fig 8-4.
+Not all business processes (in fact, maybe even "few") are captured explicitly.
+  - this leads to catch-22 situations where one department might expect Form F-56 to be signed, while the other department won't sign it until you get the other form first.
+  - compare to Value Stream Mapping (later in the course)
+See Fig 8-4, and [Scott Ambler's page](http://www.agilemodeling.com/artifacts/activityDiagram.htm).
 
 ----
 # Exercise

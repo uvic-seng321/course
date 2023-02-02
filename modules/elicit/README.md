@@ -17,8 +17,8 @@ An early task in RE is to understand what requirements users actually have. And 
 | 2-2 | [Biz Goals and Biz Rules and Activity Diagrams](biz_rules.md)                                   | Ch 9         | Create Activity Diagram |
 | 2-3 | [User Modeling and Use Cases](UseCases.pdf)                                                     | Ch 8         | Use Case Sketches       |
 | 2-4 | Techniques: Interviews and Survey Questionnaires                                                |              | Mock Interview          |
-| 2-5 | Outsourcing and Requirements - [RFPs](RFP_template.pdf)                                         | Text Ch 23   |                         |
-| 2-6 | Using NLP to find Requirements                                                                  |              |                         |
+| 2-5 | [RE in Practice - Outsourcing and Requirements](re-outsource.md) - [RFPs](RFP_template.pdf)                                         | Text Ch 23   |                         |
+| 2-6 | Using NLP to Find Requirements                                                                  |              |                         |
 | 2-7 | [Tools for Mining Potential Requirements Repositories](crowd-re-tools.md) (Zane Li)             |              |                         |
 
 
@@ -27,5 +27,4 @@ An early task in RE is to understand what requirements users actually have. And 
 * [Interview tips](interview_tips.md)
 * [Activity Diagrams](http://www.agilemodeling.com/artifacts/activityDiagram.htm)
 
-# Exercises
-*  
+
