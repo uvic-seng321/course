@@ -20,40 +20,26 @@ Analysis and modelling are the phases of the RE lifecycle where we start trying 
 
 # Sub modules
 
-| #   | Topic                                             | Readings    | Exercises |
-| --- | ------------------------------------------------- | ----------- | --------- |
-| 3-1 | [Prioritization](Requirements_prioritization.pdf) | Text, Ch 16 | MOSCOW    |
-| 3-2 | [Data modeling]                                   |             |           |
+| #   | Topic                                             | Readings         | Exercises      |
+| --- | ------------------------------------------------- | ---------------- | -------------- |
+| 3-1 | [Prioritization](Requirements_prioritization.pdf) | Text, Ch 16      | Kano/Food Apps |
+| 3-2 | Early RE                                          |                  |                |
+| 3-3 | [Data modeling]                                   | 12 (up to DFDs), |                |
+| 3-4 | Inspection                                        |                  |                |
+| 3-5 | Validation                                        |                  |                |
+| 3-6 | CTL                                               |                  | CTL exercise   |
+| 3-7 | Traceability                                     |                  |                |
+| 3-8 | RE in practice: embeedded systems                |                  |                |
+| 3-9 | Change management and reuse             |                  |                |
 
 
-- Prioritizing - Feasibility studies, Story Points, Planning Poker 
-- Reuse 
-- Inspection
-- Validation
-- Change management
-- Formal analysis - LTL, V&V, SCR
-- Traceability
-- Example (Embedded and safety)
+# Optional Readings
 
-# Readings
-- Text Chapter 8 (use cases), 12 (up to DFDs), 13 (up to "data analysis"), 17
 - Sinovsky newsletter: https://hardcoresoftware.learningbyshipping.com
 - SWOT: https://www.businessnewsdaily.com/4245-swot-analysis.html
 - Kano: https://www.career.pm/briefings/kano-model
 - [UberEats outage case](https://twitter.com/GergelyOrosz/status/1502947315279187979) 
-
-
-# Exercises
-
-# Slides
-- Early-phase and organization models early-phase_requirements_engineering.pdf
-- Feasibility Studies Feasibility studies.pdf
-- Data and process models Data and process modeling -- Structured Analysis.pdf
-- UI modeling UI Modeling and Design.pdf
-V&V slides
-
-bdd-bots.pdf
-
-formal-spec slides
-
-CTL exercises  and ctl_answers.md
+- [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
+- [Wikipedia AHP example](https://en.wikipedia.org/wiki/Analytic_hierarchy_process_–_car_example)
+- [AHP Calculator](https://bpmsg.com/ahp/ahp-calc.php?n=3&t=AHP+priorities&c[0]=Usability&c[1]=Security&c[2]=Speed)
+- 
