@@ -11,6 +11,7 @@ Requirements specification is about turning requirements into something we can w
 - Introduce requirements specification quality
 - Understand and apply formal specification techniques at a base level.
 - Capture some inspection approaches to identify quality gaps in requirements specs.
+- 
 
 # Sub modules
 - Documenting
@@ -19,7 +20,6 @@ Requirements specification is about turning requirements into something we can w
 - System Modeling - Swimlanes, Statecharts, Sequence diagrams
 - Data modeling - DFDs, 
 - Prototyping and Risk
-- Example (BA projects)
 
 # Readings
 - Text chapters 10

@@ -14,12 +14,18 @@ Analysis and modelling are the phases of the RE lifecycle where we start trying 
 - Demonstrate capability in different modelling and analysis techniques like social models, use case models, data flow diagrams, and UI models. 
 - Apply these models to the project. 
 - Differentiate between modelling approaches and analysis outcomes in order to prioritize requirements.
-- Learn about how bots are used in RE and software engineering.
 - Appreciate the difference between validation and verification.
 - Identify V&V activities and where in the software lifecycle the occur.
 - Apply formal methods when appropriate.
 
 # Sub modules
+
+| #   | Topic                                             | Readings    | Exercises |
+| --- | ------------------------------------------------- | ----------- | --------- |
+| 3-1 | [Prioritization](Requirements_prioritization.pdf) | Text, Ch 16 | MOSCOW    |
+| 3-2 | [Data modeling]                                   |             |           |
+
+
 - Prioritizing - Feasibility studies, Story Points, Planning Poker 
 - Reuse 
 - Inspection
