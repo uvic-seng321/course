@@ -89,7 +89,7 @@ The task in Assignment 2 is to figure out what "desired outcomes" are.
 
 ----
 # Sample
-see [here](labs/usm-sample.usm)
+see [example here](labs/usm-sample.usm)
 make sure to use the `.usm` extension
 
 ----

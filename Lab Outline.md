@@ -15,10 +15,12 @@
 - GitHub Codespaces
   
 ## Week of Feb 6—10: 
+Tuesday
 - [Story Maps](creating-story-maps.md)
-- [Prioritizing with MOSCOW](moscow.md)
-- [Planning poker with Story Points](story-points.md)
-- Wed: check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
+- [Prioritizing with MOSCOW and Planning poker with Story Points](moscow.md)
+
+Wednesday
+- Check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
 
 ## Week of Feb 13—17: 
 - Group work
