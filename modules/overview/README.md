@@ -22,5 +22,5 @@ For copyright reasons, readings can be found [here](https://uvic-my.sharepoint.c
 | 1-2 | [Problems and Solutions](what_are_requirements.md)            | What%20is%20RE_Easterbrook.pdf                                      | RE and the software lifecycle                  |
 | 1-3 | [NFRs](NFRs.md)                                               | Text chapter 14 • Glinz_NFRs.pdf                                    | Writing QAS                                    |
 | 1-4 | [System types and complexity using Cynefin](cynefin_notes.md) | Kurtz and Snowden, "The New Dynamics of Strategy" Kurtz_Cynefin.pdf | Determining RE practices based on system types |
-| 1-5 | BA and RE                                                     | text chapter 4                                                      |                 Identifying business goals                               |
-| 1-6 | The Customer and Stakeholders                                 | text chapter 6                                                      | Stakeholder mapping                            |
+| 1-5 | [BA and RE](BA.md)                                                     | text chapter 4                                                      |                 Identifying business goals                               |
+| 1-6 | [The Customer and Stakeholders ](stakeholders.md)                                | text chapter 6                                                      | Stakeholder mapping                            |
