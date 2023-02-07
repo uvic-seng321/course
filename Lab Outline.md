@@ -23,7 +23,8 @@ Wednesday
 - Check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
 
 ## Week of Feb 13—17: 
-- Group work
+- Assignment 6 part 1: reflect on Assignment 2. Write around 500 words to prepare for A6 (see https://github.com/uvic-seng321/course/blob/main/project/assignment6.md#a2 for sample questions to reflect on). You can brainstorm with your team, but use your own words. Keep this as a draft document you submit in April for A6. 
+- Teammates peer evaluation explained
 - [TDD and XUnit testing](tdd.md)
 
 ## Week of Feb 20—24: 
