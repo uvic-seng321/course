@@ -16,8 +16,8 @@
   
 ## Week of Feb 6—10: 
 Tuesday
-- [Story Maps](creating-story-maps.md)
-- [Prioritizing with MOSCOW and Planning poker with Story Points](moscow.md)
+- [Story Maps](labs/creating-story-maps.md)
+- [Prioritizing with MOSCOW and Planning poker with Story Points](labs/moscow.md)
 
 Wednesday
 - Check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
