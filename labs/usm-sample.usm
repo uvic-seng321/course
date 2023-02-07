@@ -1,0 +1,15 @@
+# labels: USER ACTIVITIES, USER TASKS, USER STORIES, RELEASE1, RELEASE2, RELEASE3
+# release1: 2019-06-01
+# release2: 2019-06-30
+# release2: 2019-07-31
+Login and User Account
+    Login to the system
+        As a user, I want to enter my details to login to the system
+            As a user, I want to enter my credit card details in order to pay for the service
+    Update Account
+         33 - As a user, I want to update my account details
+Order Entry
+    Enter an order
+        As a user, I want to enter an order
+            As a user, I want to enter an order with a credit card
+

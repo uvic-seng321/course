@@ -15,12 +15,14 @@
 - GitHub Codespaces
   
 ## Week of Feb 6—10: 
-- Story Maps
-- prioritizing with MOSCOW
+- [Story Maps](creating-story-maps.md)
+- [Prioritizing with MOSCOW](moscow.md)
+- [Planning poker with Story Points](story-points.md)
+- Wed: check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
 
 ## Week of Feb 13—17: 
-- teamwork
-- TDD and XUnit testing
+- Group work
+- [TDD and XUnit testing](tdd.md)
 
 ## Week of Feb 20—24: 
 - inspections and analysis
