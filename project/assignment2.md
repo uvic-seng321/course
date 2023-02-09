@@ -1,8 +1,9 @@
 # Assignment Deadlines
 1. 2 weeks before deadline: Project groups formed with group name and repo.
 2. 11 days before deadline: [Project ideas](a2-ideas.md) due on Brightspace. TAs will give feedback. 
-4. 11-1 days prior: data gathering and follow-up meetings with potential users as needed
-5. 0 days prior: all materials due on Brightspace.
+4. 11-1 days prior: data gathering and follow-up meetings with potential users as needed.
+5. Lab: do story map and prioritization.
+6. 0 days prior: all materials due on Brightspace.
 
 # Project Description
 This project is fairly open-ended. Your team will identify a business need, identify customers and stakeholders, and then gather requirements to begin solving that need.
@@ -70,7 +71,7 @@ For each user story on the story map, a user story **on GitHub** should be creat
 ### Appendices:
 1. Preparation. An appendix that includes all of techniques your team used to find requirements. If you did interviews with friends or acquaintances, include the initial set of prepared interview questions , uploaded to the Brightspace assignment on the due date listed.
 2. Elicitation evidence. All meetings, online repositories, and other forms of elicitation should be listed
-(with the date, who participated, and any other relevant details).
+(with the date, who participated, and any other relevant details). Should contain an evidence chain to where the results are from. For the crowd-sourcing/NLP piece, this would be the datasets to some level of precision, e.g.  "Reddit thread "How bad is UVic food"" date Mar 2023. For a survey, include the instrument (questions), and date issued/number of responses. For interviews, explain where/when conducted, and how many people were contacted. The idea is that I could follow your conclusions back to some sort of evidence. We want to avoid claims like "people said" where it isn't clear who the people are, or if they even exist at all. 
 
 # Marking Criteria
 - All required information provided in sufficient detail
