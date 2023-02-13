@@ -23,7 +23,7 @@ Analysis and modelling are the phases of the RE lifecycle where we start trying 
 | #   | Topic                                                | Readings                 | Exercises      |
 | --- | ---------------------------------------------------- | ------------------------ | -------------- |
 | 3-1 | [Prioritization](Requirements_prioritization.pdf)    | Text, Ch 16              | Kano/Food Apps |
-| 3-2 | [Early RE](early-phase_requirements_engineering.pdf) |     Horkoff Kids Help Phone slides                     | SD models      |
+| 3-2 | [Early RE](early-phase_requirements_engineering.pdf) |     [Horkoff Kids Help Phone slides](https://zenodo.org/record/4621265) - look at Lectures/3_Modeling2.pdf                     | SD models      |
 | 3-3 | [Data modeling](Data%20and%20process%20modeling%20--%20Structured%20Analysis.pdf)                                     | 12 (up to DFDs),         |                |
 | 3-4 | Inspection                                           | [EARS](EARS-lessons.pdf) |                |
 | 3-5 | Validation                                           |                          |                |
