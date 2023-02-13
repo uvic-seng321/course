@@ -32,20 +32,19 @@ Your GitHub repository must show evidence that TDD and CI principles have been p
 
 After the test case passes and the code/tests have been refactored as needed, the code should be merged into the master branch.
 
-In addition to developing unit tests for each of the user stories, you should also create at least three integration tests to demonstrate that the different units work together. Use JUnit categories to clearly differentiate the unit and integration tests.
+In addition to developing unit tests for each of the user stories, you should also create at least three integration tests to demonstrate that the different units work together. Clearly differentiate the unit and integration tests.
 
 # Submission
 You must submit a report that includes:
 * A link to your private GitHub repository.
-* All of your must have user stories and the associated acceptance criteria. Clearly show
-any changes that have been made to the user story or the acceptance criteria since A2.
+* All of your must have user stories and the associated acceptance criteria. Clearly show any changes that have been made to the user story or the acceptance criteria since A2.
 * Organized by user story, for each acceptance criteria:
 * show the associated test cases (e.g. using screen shots or code snippets)
 * if mocking was used, explain why it was needed
 * if the acceptance criteria could not be tested, explain why (e.g. some may be related only to the UI)
 * For each integration test:
-* show the test case (e.g. using screen shots or code snippets)
-* explain the interaction between the two units and why it should be tested
+ * show the test case (e.g. using screen shots or code snippets)
+ * explain the interaction between the two units and why it should be tested
 * A traceability matrix that maps each user story to the associated test cases
 * A brief discussion on your team’s experience using CI and TDD to verify the user stories. 
 
