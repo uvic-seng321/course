@@ -23,9 +23,13 @@ Wednesday
 - Check in with TAs on progress for A2 - progress, blockers, team dynamics and communications
 
 ## Week of Feb 13—17: 
-- Assignment 6 part 1: reflect on Assignment 2. Write around 500 words to prepare for A6 (see https://github.com/uvic-seng321/course/blob/main/project/assignment6.md#a2 for sample questions to reflect on). You can brainstorm with your team, but use your own words. Keep this as a draft document you submit in April for A6. 
+Tuesday
 - Teammates peer evaluation explained
+- Assignment 6 part 1: reflect on Assignment 2. Write around 500 words to prepare for A6 (see https://github.com/uvic-seng321/course/blob/main/project/assignment6.md#a2 for sample questions to reflect on). You can brainstorm with your team, but use your own words. Keep this as a draft document you submit in April for A6. 
+
+Wednesday
 - [TDD and XUnit testing](tdd.md)
+- A3 individual work
 
 ## Week of Feb 20—24: 
 - inspections and analysis
@@ -33,15 +37,19 @@ Wednesday
 
 ## Week of Feb 27—Mar 3: 
 - traceability 
-- DFDs?
+- DFDs
 
 ## Week of Mar 6—10: 
-## Week of Mar 13—17: 
 - Testing with Cucumber and Selenium
 - BDD tools
 
-## Week of Mar 20—24: 
+
+## Week of Mar 13—17: 
 - CTL/LTL
 
-## Week of Mar 27—31: 
+
+## Week of Mar 20—24: 
 - Agile retrospectives
+
+
+## Week of Mar 27—31: 

@@ -2,7 +2,7 @@
 
 # Instructions
 You are required to perform the following tasks:
-1. Follow [this invite link] to create your own individual GitHub repo. Setup GitHub Actions in the repository (see the Setting up GitHub Actions instructions in the lab slides if you are unfamiliar with this).
+1. Follow [this invite link](https://classroom.github.com/a/xexcWaU0) to create your own individual GitHub repo. Setup GitHub Actions in the repository (see the Setting up GitHub Actions instructions in the lab slides if you are unfamiliar with this).
 2. Add a [continuous integration build badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) to your README.
 3. The repo should already contain a Typescript project with the following files:
     1. Calculator.ts: a class that adds and multiplies sets of  Integers
@@ -21,10 +21,11 @@ We are using the following in this project:
 
 
 **Note**: You will be required to write some code to ensure that the classes are working as intended and are tested appropriately (there are comments in the files explaining this). 
-**1. Once you open the Codespace, entering `tsc` (Typescript compile) and then `npm test` in the Terminal should result in a passing test.
+
+1. Once you open the Codespace, entering `tsc` (Typescript compile) and then `npm test` in the Terminal should result in a passing test.
 2. Create a new branch in your repository. Write the missing test cases, fix the broken test cases, and write the additional code as described in the comments in each `.ts` file.
 3. Using a GitHub action, have GitHub automatically run the tests and return whether the merge is safe.
-4. Once all tests are passing, submit a Pull Request from your newly created branch to the master branch with these code changes. Do not merge the Pull Request. 
+4. Once all tests are passing, submit a Pull Request from your newly created branch to the master branch with these code changes. Do not merge the Pull Request. (or, use the GitHub VS Code plugin to do this). 
 5. GitHub Actions should show that the pull request passes all checks.
 
 # Learning Outcomes
