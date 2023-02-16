@@ -38,6 +38,7 @@ In addition to developing unit tests for each of the user stories, you should al
 You must submit a report that includes:
 * A link to your private GitHub repository.
 * A link to your must have user stories and the associated acceptance criteria. Clearly show any changes that have been made to the user story or the acceptance criteria since A2.
+* **The data model sketch and backend design, mapped to the user stories**
 * Organized by user story, for each acceptance criteria:
 
   * show the associated test cases (e.g. using screen shots or code snippets)
