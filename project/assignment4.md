@@ -15,13 +15,13 @@ In Assignment 2, your team created a set of user stories documenting requirement
 
 The stories that should be implemented are the user stories with Must Have priority from A2. You only need to develop the back-end functionality (no user interface is required). If a must have user story and the associated acceptance criteria are written with a focus on the user interface, carefully think about the back-end functionality that will be required to fulfil that user need on user interface. 
 
-The product must be developed with one of Javascript, Typescript, or Java, and be tested using xUnit. Mocking can be used as required using Mockito or suitable mocking framework. If your team wants to do something different (e.g. Scala) please check with the TA first.
+The product must be developed with one of Javascript, Typescript, or Java, and be tested using *edit: a unit-testing framework like JUnit*. Mocking can be used as required using Mockito or suitable mocking framework. If your team wants to do something different (e.g. Scala) please check with the TA first.
 
 ## Requirement Details: 
-You may find the acceptance criteria for your must have requirements are lacking some details when you go to write your test cases. You should follow up with your potential users or the customer to obtain additional details as required.
+You will likely find the acceptance criteria for your **must-have** requirements are lacking in detail when you go to write your test cases. You should follow up with your potential users or customers to obtain additional details as required.
 
 ## Development procedures: 
-Use the private project repo setup in A2. You can use your preferred automated build tool. The project README must have a build badge and a code coverage badge (see https://codecov.io) for the master branch. 
+Use the private project repo setup in A2. You can use your preferred automated build tool. The project README must have a build badge using GitHub Actions, and a code coverage badge (see https://codecov.io) for the master branch. 
 
 Your GitHub repository must show evidence that TDD and CI principles have been practiced. To do this, for each user story, create a new branch in your GitHub repository. On that branch, commit your small incremental changes. Each new test case should have two to four associated commits in this order:
 
@@ -37,7 +37,7 @@ In addition to developing unit tests for each of the user stories, you should al
 # Submission
 You must submit a report that includes:
 * A link to your private GitHub repository.
-* All of your must have user stories and the associated acceptance criteria. Clearly show any changes that have been made to the user story or the acceptance criteria since A2.
+* A link to your must have user stories and the associated acceptance criteria. Clearly show any changes that have been made to the user story or the acceptance criteria since A2.
 * Organized by user story, for each acceptance criteria:
 
   * show the associated test cases (e.g. using screen shots or code snippets)
@@ -57,12 +57,11 @@ Discuss why acceptance criteria needed to be changed (if applicable). Remember t
 - Appropriate changes have been made to the user stories and acceptance criteria
 - Test cases appropriate for acceptance criteria
 - Appropriate integration tests
-- Mocking used appropriately
-- GitHub repository demonstrates TDD and CI principles and best practices have been
-- applied
+- Mocking used when needed
+- **edit: Code compiles, and satisfies user stories**
+- GitHub repository demonstrates TDD and CI principles and best practices have been applied
 - Traceability matrix is accurate and well formatted
-- Discussion clearly relates to software requirements and demonstrates appropriate
-- understanding of the CI/TDD principles
+- Discussion clearly relates to software requirements and demonstrates appropriate understanding of the CI/TDD principles
 - Peer evaluations
 
 # Late Submissions
