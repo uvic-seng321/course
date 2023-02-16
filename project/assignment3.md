@@ -3,14 +3,15 @@
 # Instructions
 You are required to perform the following tasks:
 1. Follow [this invite link](https://classroom.github.com/a/xexcWaU0) to create your own individual GitHub repo. Setup GitHub Actions in the repository (see the Setting up GitHub Actions instructions in the lab slides if you are unfamiliar with this).
-2. Add a [continuous integration build badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) to your README.
-3. The repo should already contain a Typescript project with the following files:
+2. Create a [workflow file to set up GitHub Action](https://docs.github.com/en/actions/quickstart) to run the `npm test` command on merge/commit. 
+3. Add a [continuous integration build badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) to your README.
+4. The repo should already contain a Typescript project with the following files:
     1. Calculator.ts: a class that adds and multiplies sets of  Integers
     2. StringCheck.ts: a class that checks if a string is a palindrome, is empty, is null, or contains only whitespace.
     3. CalculatorTest.spec.ts: a test class to ensure that the Calculator class is working as intended.
     4. StringCheckTest.spec.ts: a test class to ensure that the StringCheck class is working as intended.
     5. Build and config files to satisfy the project needs. 
-4. Use the associated Codespaces hub (see Code button on Github) or, optionally, install the required components on your machine. We cannot support installation issues. 
+5. Use the associated Codespaces hub (see Code button on Github) or, optionally, install the required components on your machine. We cannot support installation issues. 
 
 We are using the following in this project:
 - Typescript: a typed version of Javascript.
