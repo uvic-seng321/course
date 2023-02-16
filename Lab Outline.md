@@ -10,9 +10,9 @@
 - Hands on - explore project crowd sources. Generate a list of nascent feature requests that you can turn into requirements. 
 
 ## Week of Jan 30: 
-- Github Actions
+- [Github Actions](labs/GH-actions-intro.pptx) • [GitHub Actions documentation](https://docs.github.com/en/actions/quickstart)
 - Extracting requirements from natural language sources. 
-- GitHub Codespaces
+- [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
   
 ## Week of Feb 6—10: 
 Tuesday
