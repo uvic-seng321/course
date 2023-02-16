@@ -6,7 +6,7 @@ By completing this assignment, you should demonstrate your ability to:
 You should submit all documents before 11:59PM on the required date. All documents should have a title page which has on it the course number and name, the title of your project; the name of your group, a list of members indicating who was responsible for which parts, and the date. All submissions should be done via Brightspace. Only one submission is required per group. A single pdf file should be submitted and should named A4_groupnumber_groupname.pdf.
 
 # PEER Evaluation
-For all group assignments, you will receive a peer evaluation form from TeamMates. Individual marks may vary based on contribution level as percieved by your peers. Individuals who do not submit the peer evaluation forms for an assignment will lose marks for that assignment.
+For all group assignments, you will receive a peer evaluation form from TeamMates. Individual marks may vary based on contribution level as perceived by your peers. Individuals who do not submit the peer evaluation forms for an assignment will lose marks for that assignment.
 
 # Assignment Details
 This is a group assignment. The group formation is the same as that in Assignment 2.
