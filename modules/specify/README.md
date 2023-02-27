@@ -4,6 +4,7 @@ title: Requirements Specification topics
 ---
 Requirements specification is about turning requirements into something we can work with. 
 
+| 4-6 | CTL                                                                               |                                                                                                        | CTL exercise   |
 
 # Learning Outcomes
 - Understand where specification fits in the RE process.
@@ -18,7 +19,6 @@ Requirements specification is about turning requirements into something we can w
 - Ambiguity
 - Writing/specifying
 - System Modeling - Swimlanes, Statecharts, Sequence diagrams
-- Data modeling - DFDs, 
 - Prototyping and Risk
 
 # Readings
