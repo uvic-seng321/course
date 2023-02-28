@@ -12,7 +12,7 @@
 ## Week of Jan 30: 
 - [Github Actions](labs/GH-actions-intro.pptx) • [GitHub Actions documentation](https://docs.github.com/en/actions/quickstart)
 - Extracting requirements from natural language sources. 
-- [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
+- [GitHub Codespaces](labs/Codespaces.pptx) • [Github Codespaces docs](https://docs.github.com/en/codespaces/getting-started/quickstart)
   
 ## Week of Feb 6—10: 
 Tuesday
@@ -28,24 +28,24 @@ Tuesday
 - Assignment 6 part 1: reflect on Assignment 2. Write around 500 words to prepare for A6 (see https://github.com/uvic-seng321/course/blob/main/project/assignment6.md#a2 for sample questions to reflect on). You can brainstorm with your team, but use your own words. Keep this as a draft document you submit in April for A6. 
 
 Wednesday
-- [TDD and XUnit testing](tdd.md)
 - A3 individual work
 
 ## Week of Feb 20—24: 
-- inspections and analysis
-- ambiguity detection
+- Reading Week
 
 ## Week of Feb 27—Mar 3: 
-- traceability 
-- DFDs
+- [TDD and XUnit testing](labs/TDD%20overview.pdf)
+- [DFD exercise from class](data-model-notes.md) - cont'd
 
 ## Week of Mar 6—10: 
-- Testing with Cucumber and Selenium
-- BDD tools
+- CTL/LTL
+- ambiguity detection
+- traceability 
 
 
 ## Week of Mar 13—17: 
-- CTL/LTL
+- BDD tools
+- Testing with Cucumber and Selenium
 
 
 ## Week of Mar 20—24: 
@@ -53,3 +53,4 @@ Wednesday
 
 
 ## Week of Mar 27—31: 
+- project work - no scheduled lab material
