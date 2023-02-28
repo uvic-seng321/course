@@ -35,7 +35,7 @@ Wednesday
 
 ## Week of Feb 27—Mar 3: 
 - [TDD and XUnit testing](labs/TDD%20overview.pdf)
-- [DFD exercise from class](data-model-notes.md) - cont'd
+- [DFD exercise from class](labs/data-model-notes.md) - cont'd
 
 ## Week of Mar 6—10: 
 - CTL/LTL
