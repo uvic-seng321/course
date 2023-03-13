@@ -7,8 +7,8 @@ Requirements specification is about turning requirements into something we can w
 | #   | Topic                                             | Readings   | Exercises          |
 | --- | ------------------------------------------------- | ---------- | ------------------ |
 | 4-1 | [Software specification](Req%20Specification.pdf) | chapter 10 | email address spec |
-| 4-2 | Logic and Specification                           |            | CTL                |
-| 4-3 | Validation and Verification                       |            |                    |
+| 4-2 | Validation and Verification                             |            | CTL                |
+| 4-3 |     Logic and Specification                 |            |                    |
 | 4-4 | Ambiguity                                         |            |                    |
 
 # Learning Outcomes
