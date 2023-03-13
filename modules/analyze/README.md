@@ -27,7 +27,7 @@ Analysis and modelling are the phases of the RE lifecycle where we start trying 
 | 3-3 | [Data modeling](Data%20and%20process%20modeling%20--%20Structured%20Analysis.pdf) | 12 (up to DFDs),           13  (up to reports)                                                                            |      Sketch out entities and relationships in project          |
 | 3-4 | [Traceability, Change Management, and Reuse](change%20management%20.pdf)                                        |         chapter 28, 29                                                                                               |                |
 | 3-5 | [Feasibility Analysis](Feasibility%20studies.pdf)                                 |                                                                                                        |                |
-| 3-6 | RE in practice: embedded systems                                                  |                                                                                                        |                |
+| 3-6 | [RE in practice: embedded systems](embedded.md)                                                  |                                                                                                        |         state diagram for course registration       |
 
 
 
