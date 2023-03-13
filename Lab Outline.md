@@ -38,19 +38,19 @@ Wednesday
 - [DFD exercise from class](labs/data-model-notes.md) - cont'd
 
 ## Week of Mar 6—10: 
-- CTL/LTL
+- group project work
+
+
+## Week of Mar 13—17: 
+- CTL
 - ambiguity detection
 - traceability 
 
 
-## Week of Mar 13—17: 
-- BDD tools
-- Testing with Cucumber and Selenium
-
-
 ## Week of Mar 20—24: 
 - Agile retrospectives
-
+- BDD tools
+- Testing with Cucumber and Selenium
 
 ## Week of Mar 27—31: 
 - project work - no scheduled lab material
