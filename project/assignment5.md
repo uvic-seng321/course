@@ -21,21 +21,35 @@ This is a group assignment. The group formation is the same as that in Assignmen
 
 In Assignment 2, your team created a set of user stories documenting requirements for a software system. In this assignment, your team will implement this product using BDD practices and Cucumber. You need to implement the front-end part of the user stories you implemented in A4 and back-end can be reused or modified from A4 to work in a web application. In addition, you need to automate the UI of these user stories using an automation tool. The product must be developed with your language of choice, and a BDD tool such as Cucumber and demonstrate UI testing using automation tools such as Selenium Web driver.
 
+## Copilot/ChatGPT
+You are required to enable AI support tools in this assignment. BUT, you need to explain how they helped. Your team will write a report summarizing your team's experiences.
+1. Develop at least one feature/user story using ChatGPT.
+2. An important and emerging skill, not unconnected to RE, is *prompt engineering*, i.e., tailoring the output of the AI. 
+3. Prompt ChatGPT at least three times. The first session should be pretty basic. In Prompt 2, add more refinements (e.g., domain knowledge). In the third prompt, **co-editing**, give the AI specific feedback ("the function in line 20 should take an Int"). 
+   1. Record each of the prompts you used and the tool's suggestion.  
+4. Each time the AI suggests something wrong or unhelpful, make a note. 
+5. Prepare a report, around 1000 words, that outlines:
+   1. the prompts you used, and the feature involved;
+   2. your group's reflection on where ChatGPT struggled, and why;
+   3. your group's wider reflection on how useful the tool was, compared with DIY coding.
+      1. what potential bias or accuracy problems might exist?
+      2. how does it replace or augment skills you've learned in undergrad?
+      3. what role would RE play if these tools were widespread?
+
 ## Requirement Details: 
 You may find the acceptance criteria for your must have requirements are lacking some details when you go to write your test scenarios following Gherkin format. You should follow up with your potential users or the customer to obtain additional details as required.
 
 ## Development procedures: 
-Your GitHub repository must show evidence that BDD principles have been practiced. To do this, for each feature, create a new branch in your GitHub repository. On that branch, commit your small incremental changes.
+Your GitHub repository must show evidence that BDD principles have been practiced. To do this, for at least three features/stories, create a new branch in your GitHub repository. On that branch, commit your small incremental changes.
 * Each scenario should have associated commits in this order against a feature:
-* Write a failing scenario
-* Implement step definitions
-* Write the automation and application code
-* Refactor (as needed)
+  * Write a failing scenario
+  * Implement step definitions
+  * Write the automation and application code
+  * Refactor (as needed)
 * Demonstrate appropriate use of Cucumber options such as hooks, tags etc., and features
 such as implementing scenario outlines, data tables, backgrounds etc.
 * Automation of the UI part of the user stories
 * Identifying and interacting with web elements
-* Using Page objects patterns
 
 ## Submission:
 You must submit a report that includes:
@@ -44,11 +58,11 @@ You must submit a report that includes:
 made to the feature set or the acceptance criteria since A2 and A4.
 * Organized by features, for each scenario
   * show the associated steps (e.g. using screen shots or code snippets)
-* A traceability matrix that maps each feature, user story to the associated scenarios
 * A detailed report generated using any 3rd party Cucumber reporter plugins in a
 professional format
 * Read Me to guide the markers on how to run the application.
 * Design reflection from the lab of Mar 14.
+* ChatGPT reflection from above.
 
 # Marking Criteria
 * Demonstration of applying BDD principles and best practices during the development.
