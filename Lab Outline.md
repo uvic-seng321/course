@@ -42,15 +42,14 @@ Wednesday
 
 
 ## Week of Mar 13—17: 
-- CTL
-- ambiguity detection
+- inspections
 - traceability 
 
-
 ## Week of Mar 20—24: 
-- Agile retrospectives
+- CTL
 - BDD tools
 - Testing with Cucumber and Selenium
 
 ## Week of Mar 27—31: 
+- Agile retrospectives
 - project work - no scheduled lab material
