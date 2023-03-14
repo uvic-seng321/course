@@ -47,8 +47,8 @@ Wednesday
 
 ## Week of Mar 20—24: 
 - CTL
-- BDD tools
-- Testing with Cucumber and Selenium
+- [BDD tools: Cucumber and Node.js](labs/bdd.md)
+- Testing with  Selenium
 
 ## Week of Mar 27—31: 
 - Agile retrospectives
