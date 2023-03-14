@@ -43,11 +43,12 @@ You must submit a report that includes:
 * All the must have user stories under features. Clearly show any changes that have been
 made to the feature set or the acceptance criteria since A2 and A4.
 * Organized by features, for each scenario
-* show the associated steps (e.g. using screen shots or code snippets)
+  * show the associated steps (e.g. using screen shots or code snippets)
 * A traceability matrix that maps each feature, user story to the associated scenarios
 * A detailed report generated using any 3rd party Cucumber reporter plugins in a
 professional format
-* Read Me to guide the makers on how to run the application.
+* Read Me to guide the markers on how to run the application.
+* Design reflection from the lab of Mar 14.
 
 # Marking Criteria
 * Demonstration of applying BDD principles and best practices during the development.
