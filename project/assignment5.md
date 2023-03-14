@@ -22,10 +22,10 @@ This is a group assignment. The group formation is the same as that in Assignmen
 In Assignment 2, your team created a set of user stories documenting requirements for a software system. In this assignment, your team will implement this product using BDD practices and Cucumber. You need to implement the front-end part of the user stories you implemented in A4 and back-end can be reused or modified from A4 to work in a web application. In addition, you need to automate the UI of these user stories using an automation tool. The product must be developed with your language of choice, and a BDD tool such as Cucumber and demonstrate UI testing using automation tools such as Selenium Web driver.
 
 ## Copilot/ChatGPT
-You are required to enable AI support tools in this assignment. BUT, you need to explain how they helped. Your team will write a report summarizing your team's experiences.
-1. Develop at least one feature/user story using ChatGPT.
+You are required to enable AI support tools in this assignment. BUT, you need to explain how they helped.  Your job is to see if the AI is applying a concept properly. It might help to think of yourself as a marker, inspecting the submission ChatGPT makes. Your team will write a report summarizing your team's experiences.
+1. Develop at least one feature/user story using **only** ChatGPT.
 2. An important and emerging skill, not unconnected to RE, is *prompt engineering*, i.e., tailoring the output of the AI. 
-3. Prompt ChatGPT at least three times. The first session should be pretty basic. In Prompt 2, add more refinements (e.g., domain knowledge). In the third prompt, **co-editing**, give the AI specific feedback ("the function in line 20 should take an Int"). 
+3. Prompt ChatGPT three times. The first session should be pretty basic - try giving it the spec as a javascript comment. In Prompt 2, add more refinements (e.g., domain knowledge). In the third prompt, **co-editing**, give the AI specific feedback ("the function in line 20 should take an Int"). 
    1. Record each of the prompts you used and the tool's suggestion.  
 4. Each time the AI suggests something wrong or unhelpful, make a note. 
 5. Prepare a report, around 1000 words, that outlines:
