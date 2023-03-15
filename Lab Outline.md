@@ -42,8 +42,9 @@ Wednesday
 
 
 ## Week of Mar 13—17: 
-- inspections
-- traceability 
+- [inspections](labs/requirements%20inspections.pdf)
+- [traceability](labs/traceability_lab.pdf)
+- [inspection checklist](labs/inspectionchecklist.md)
 
 ## Week of Mar 20—24: 
 - CTL
