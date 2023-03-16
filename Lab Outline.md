@@ -45,7 +45,8 @@ Wednesday
 - [inspections](labs/requirements%20inspections.pdf)
 - [traceability](labs/traceability_lab.pdf)
 - [inspection checklist](labs/inspectionchecklist.md)
-
+- [inspection summary report](labs/Inspection%20Summary%20Report.docx)
+- 
 ## Week of Mar 20—24: 
 - CTL
 - [BDD tools: Cucumber and Node.js](labs/bdd.md)
