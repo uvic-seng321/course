@@ -48,7 +48,7 @@ Wednesday
 - [inspection summary report](labs/Inspection%20Summary%20Report.docx)
   
 ## Week of Mar 20—24: 
-- [CTL exercise](labs/) 
+- [CTL exercise](labs/CTL.pdf) and [answers](labs/ctl_answers.md)
 - [BDD tools: Cucumber and Node.js](labs/bdd.md)
 - [Testing with Selenium *and* Cucumber](labs/selenium.md)
 
