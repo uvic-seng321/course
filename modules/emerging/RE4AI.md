@@ -1,0 +1,2 @@
+Use https://aiguide.substack.com/p/on-analogy-making-in-large-language to show how to specify GPT4 training
+> GPT-3 and other large language models are exquisitely sensitive to the form of their prompts

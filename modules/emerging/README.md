@@ -9,18 +9,8 @@ This is a module that covers new topics in RE, including the use of RE for ML, a
 - Appreciate how to use RE mining techniques on App Store reviews.
 - Describe the role of RE in data-primary systems.
   
-# Sub modules
-- NLP and RE
-- RE for and with ML
-|| Risk management | text chapter 32 ||  
-
-# Readings
-
-# Exercises
-
-# Slides
-ml4RE.pdf - Machine Learning and RE
-
-Lean RE - lean.pdf
-
-summary.pdf - Wrap up lecture
+| #   | Topic                    | Readings        | Exercises |
+| --- | ------------------------ | --------------- | --------- |
+| 5-1 | [NLP and RE](RE4AI.md)   |                 |           |
+| 5-2 | [RE4ML/ML4RE](ml4RE.pdf) |                 |           |
+| 5-3 | Risk management          | text chapter 32 |           |
