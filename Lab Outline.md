@@ -48,10 +48,13 @@ Wednesday
 - [inspection summary report](labs/Inspection%20Summary%20Report.docx)
   
 ## Week of Mar 20—24: 
-- [CTL exercise](labs/CTL.pdf) and [answers](labs/ctl_answers.md)
-- [BDD tools: Cucumber and Node.js](labs/bdd.md)
-- [Testing with Selenium *and* Cucumber](labs/selenium.md)
+- [CTL exercise](labs/CTL.pdf) and [answers](labs/ctl_answers.md) (Tues)
+- [BDD tools: Cucumber and Node.js](labs/bdd.md) (Tues)
+- [Testing with Selenium *and* Cucumber](labs/selenium.md) (Wed)
 
 ## Week of Mar 27—31: 
 - Agile retrospectives
 - project work - no scheduled lab material
+
+## Week of Apr 3-6:
+- no scheduled material; complete project
