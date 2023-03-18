@@ -1,5 +1,13 @@
 # Using Cucumber
 
+## What To Do in Lab
+1. Read through the material below. 
+2. Copy the repo using the invite. 
+3. Complete the tests so that Cucumber reports a passing test.
+4. Design your BDD test plans for assignment 5. You should have a completed test plan that maps user stories (features) to a set of feature specs and corresponding code. 
+5. Your group should be able to write all the Gherkin language (the `.feature` files) in lab. That would leave someone to implement the steps and wire the tests into the system. 
+
+## Overview
 This lab follows the excellent resources at https://school.cucumber.io/courses/take/bdd-with-cucumber-javascript/ Feel free to follow those as well.
 
    1. [Accept the invite](https://classroom.github.com/a/PGQCFij_) to create a template with a codespace and Node/Cucumber preinstalled.
