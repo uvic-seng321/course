@@ -1,0 +1,70 @@
+# Andrew and Jan, Faculty of Business
+
+## Andrew Park
+- Create health policy scanner - really simple script to scrape web
+    - Sold to TrialCard. Started with 10k each
+    - Sweat equity key
+- Asked for exit from co-founder - bought out shares
+- Not super keen on entrepreneurship 
+    - Boring
+    - Not for agreeable people - lots of HR decisions.
+    - High pressure
+- Vs the blockbuster approach - lots of $$ 
+- IS is the intersection of Business/Law/Society with SE/CS
+- Doing a sales forecast - pricing
+- 8-12x EBITDA for sale price
+- Walkthru web scraping
+    - Node/puppeteer. See github.com/nosequeldeebee
+
+# Jan Kietzmann
+- Extended Venn diagram:  IT (technical)/Org (rules, policies, branding) but add legal/social/geographical element eg. Child sexual exploitation - first tech, then police
+- Another element is the ethics component (all encompassing)
+- ChatGPT training - Kenya 1$-2$ a day - now PTSD
+- legal: how does Uber get into Vancouver - Passenger Transport Board (3 vs 19)
+- Technology is one system is a bigger class of systems
+- Rick Watson - systems thinking 
+- A-flow vs v-flow
+    - Is there an analogy in software? 
+- Ford - linear thinking 
+- Dominoes picture
+- Tesla vs Ford
+        - Teslas have computers in them
+        - Teslas have a charging network
+        - OTA updates and no dealers
+        - Disrupts dealers, electricity networks, gas stations, mechanics, insurers 
+- Google Glass
+    - Aesthetic
+    - Privacy - glassholes
+    - Tech not ready 
+- TV
+    - Remote
+    - Hard to adopt - wife was changing it anyway
+    - Point being that if you don’t understand the social, the tech is irrelevant 
+    - (Also rabbit ears, subscriptions)
+- Sink with 2 taps
+    - UK approach
+    - Took change in building code because people getting hurt
+- So we can model things
+- Positive / negative feedback loops
+    - Drug use - more police, more sentences. (My class - harm reduction, decriminalize)
+- Rates of growth - need to model this - lily pads
+- Bike theft project - how to stop. System dynamics
+    - Connection to drugs/homelessness/mentail health/
+    - Stop bike theft, increase other problems (car breaking)
+- Delhi traffic case
+    - Efficient
+    - Reasonably safe
+    - Delhi still has insane rates of traffic death
+    - Uncontrolled - self organized 
+    - Informal communication 
+    - Pay more attention
+    - Very adaptive - 
+- Ian McCarthy SFU - change the seating patterns in class
+    - Why do you sit there? Friends, outlets, eyeglasses, etc.
+    - Force them to sit in a particular spot - annoyance, pushing (minor change)
+- Garbage containers
+    - RFID tags
+    - Phones destroyed, tags destroyed
+    - Informal organization of container pickups - including clients and drivers. 
+    - “Losing 2 hrs of beer drinking time” - motivates things
+
