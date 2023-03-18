@@ -11,6 +11,5 @@ This is a module that covers new topics in RE, including the use of RE for ML, a
   
 | #   | Topic                    | Readings        | Exercises |
 | --- | ------------------------ | --------------- | --------- |
-| 5-1 | [NLP and RE](RE4AI.md)   |                 |           |
-| 5-2 | [RE4ML/ML4RE](ml4RE.pdf) |                 |           |
-| 5-3 | Risk management          | text chapter 32 |           |
+| 5-1 | [RE4ML/ML4RE](ml4RE.pdf) |                 |           |
+| 5-2 | Risk management          | text chapter 32 |           |
