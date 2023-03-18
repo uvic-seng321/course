@@ -21,7 +21,7 @@ In [Assignment 5](../project/assignment5.md) one deliverable is to automate some
 ## How To 
 1. Install Selenium + [web drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) in your config/build files. Selenium needs special libraries to puppet the browsers. Chrome is probably the safest bet here. Make sure the version of the driver matches your browser!
 3. Figure out the pre/post/context conditions. Typically "pre" will be some initial web browser state (load a page, visit an endpoint). The "post" will reflect the page after some Context has been provided (e.g. a form input). 
-4. Follow the code I've posted in the template repo. Here is an invite to create your own repo. 
+4. Follow the code I've posted in the template repo. [Here is an invite](https://classroom.github.com/a/xYUOkaS8) to create your own repo. 
 5. Let Selenium do the rest! It will open a browser, move the cursor, "click" buttons, etc.
 6. [Read more on Selenium scripts.](https://www.selenium.dev/documentation/webdriver/getting_started/first_script/)
 
