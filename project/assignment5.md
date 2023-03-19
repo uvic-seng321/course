@@ -11,7 +11,7 @@ By completing this assignment, you should demonstrate your ability to:
 
 
 # Submission
-You should submit all documents before 11:59PM on the required date. All documents should have a title page which has on it the course number and name, the title of your project; the name of your group, a list of members indicating who was responsible for which parts, and the date. All submissions should be done via Canvas. Only one submission is required per group. A single pdf file should be submitted and named as A5_groupnumber_groupname.pdf.
+You should submit all documents before 11:59PM on the required date. All documents should have a title page which has on it the course number and name, the title of your project; the name of your group, a list of members indicating who was responsible for which parts, and the date. All submissions should be done via Brightspace. Only one submission is required per group. A single pdf file should be submitted and named as A5_groupnumber_groupname.pdf.
 
 # PEER Evaluation
 For all group assignments, you will receive a peer evaluation form from TEAMMATES. Individual marks may vary based on contribution level as perceived by your peers. Individuals who do not submit the peer evaluation forms for an assignment will lose marks for the assignment.
@@ -54,11 +54,11 @@ such as implementing scenario outlines, data tables, backgrounds etc.
 ## Submission:
 You must submit a report that includes:
 * A link to your private GitHub repository created for A5.
-* All the must have user stories under features. Clearly show any changes that have been
+* All the must have user stories. Clearly show in the report any changes that have been
 made to the feature set or the acceptance criteria since A2 and A4.
 * Organized by features, for each scenario
   * show the associated steps (e.g. using screen shots or code snippets)
-* A detailed report generated using any 3rd party Cucumber reporter plugins in a
+  * A detailed report generated using any 3rd party Cucumber reporter plugins in a
 professional format
 * Read Me to guide the markers on how to run the application.
 * Design reflection from the lab of Mar 14.
