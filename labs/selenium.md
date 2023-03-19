@@ -16,7 +16,7 @@ These approaches are not cheap or scalable in a modern, fast-moving CI environme
 
 The simple idea is to find web controls in the DOM (e.g. by CSS selector) and automate mouse clicking, moving, text validation, etc. This simulates the manual interaction, and allows us to verify that our UI elements are in the right place, correctly validate input, and so on. Note: this is by no means a replacement for proper usability design; presumably this type of UX would be handled first, and decide on fonts, themes, overall metaphor, information architecture, and so on. See [SENG310](https://heat.csc.uvic.ca/coview/course/2021091/SENG310)! 
 
-In [Assignment 5](../project/assignment5.md) one deliverable is to automate some of the acceptance testing with Selenium. While it is possible to integrate this into the Cucumber BDD approach as well, it adds a lot of moving pieces. 
+In [Assignment 5](../project/assignment5.md) one deliverable is to automate the acceptance testing with Selenium. While it is possible to integrate this into the Cucumber BDD approach as well, it adds a lot of moving pieces. 
 
 ## How To 
 1. Install Selenium + [web drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) in your config/build files. Selenium needs special libraries to puppet the browsers. Chrome is probably the safest bet here. Make sure the version of the driver matches your browser!
