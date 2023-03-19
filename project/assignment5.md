@@ -66,7 +66,8 @@ professional format
 
 # Marking Criteria
 * Demonstration of applying BDD principles and best practices during the development.
-* All the required application features have been reasonably implemented and automated. ● The quality of the source code.
+* All the required application features have been reasonably implemented and automated.  
+* The quality of the source code.
 * The content, organization and presentation of the report.
 * Taking peer evaluation into consideration.
 
