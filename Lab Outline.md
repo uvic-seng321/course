@@ -53,8 +53,8 @@ Wednesday
 - [Testing with Selenium *and* Cucumber](labs/selenium.md) (Wed)
 
 ## Week of Mar 27—31: 
-- Agile retrospectives
-- project work - no scheduled lab material
+- review [Assignment 6](project/assignment6.md)
+- group project work
 
 ## Week of Apr 3-6:
-- no scheduled material; complete project
+- demo project and walk thru requirements and code in lab.
