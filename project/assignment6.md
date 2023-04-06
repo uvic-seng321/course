@@ -29,11 +29,12 @@ during assignments 2, 4 and 5. This is an individual assignment. Each student mu
 
 # Submission
 * The report should be between 1000 to 2000 words.
-* All submissions must be in PDF format. All submissions must use the A4 page format, the
-title should be typeset in a 24pt font and the body of the paper should be typeset in a 10pt
+* All submissions must be in PDF format. All submissions must use the letter page size, the
+title should be typeset in a 24pt font and the body of the paper should be typeset in a 10-12pt
 font.
+* Use of ChapGPT, Grammarly, etc. must be clearly labeled and cited, and restricted to grammar and structure only. You can do this by adding an appendix which explains how it was used.
 * The report must be submitted before 11:59PM on the required date. It should have a title.
-In the author block, include your name, the course number and name, and the date. A single pdf file should be submitted and should be named “A5b_\<uvicid\>.pdf”. All submissions should be done via the Brightspace assignment.
+In the author block, include your name, the course number and name, and the date. A single pdf file should be submitted and should be named “A6_\<uvicid\>.pdf”. All submissions should be done via the Brightspace assignment.
 
 # Marking Criteria
 * A full rubric will be available on Brightspace.
