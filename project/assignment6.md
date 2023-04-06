@@ -32,15 +32,25 @@ during assignments 2, 4 and 5. This is an individual assignment. Each student mu
 * All submissions must be in PDF format. All submissions must use the letter page size, the
 title should be typeset in a 24pt font and the body of the paper should be typeset in a 10-12pt
 font.
-* Use of ChapGPT, Grammarly, etc. must be clearly labeled and cited, and restricted to grammar and structure only. You can do this by adding an appendix which explains how it was used.
+* **Use of ChapGPT, Grammarly, etc. must be clearly labeled and cited, and restricted to grammar and structure only. You can do this by adding an appendix which explains how it was used.**
 * The report must be submitted before 11:59PM on the required date. It should have a title.
 In the author block, include your name, the course number and name, and the date. A single pdf file should be submitted and should be named “A6_\<uvicid\>.pdf”. All submissions should be done via the Brightspace assignment.
 
 # Marking Criteria
-* A full rubric will be available on Brightspace.
-* The report is clear, concise, well formatted, and professional
-* All required information provided in sufficient detail
-* Demonstrates critical reflection **supported by evidence** from assignments 2, 4 and 5
+* ~~A full rubric will be available on Brightspace.~~ The rubric on Brightspace is holistic and based on the [ATWP rubric](https://www.uvic.ca/humanities/atwp/current-students/grading/index.php). I.e., you will be getting a letter grade mapped to a percentage. An A would receive 85%.
+* The criteria can be found on that page as well; for example, **A level grades** for a paper will achieve the following:
+  * Overall, the writing is clear, insightful, focused, well developed and organized, and enriched by well-chosen details and examples. It holds the reader's attention and moves the reader forward effortlessly. The writer demonstrates independent and original thinking.
+  * Ideas flow logically and fluently; the thesis is clear, original, manageable, and apt; the analysis is compelling and sound. Each point is supported by at least one piece of reliable and accurate evidence. Quoted material is well integrated and correctly documented in the required style.
+  * The language is precise, interesting, powerful, and engaging; sentences are well constructed, varied in length and structure, and joined by strong transitions.
+  * The writer demonstrates a thorough grasp of standard English conventions (spelling, punctuation, grammar, usage, paragraphing, mechanics); there are no errors or only minor, mechanical errors.
+  * The writing has many obvious strengths and no obvious need for revision.
+
+* In particular, pay attention to the following: 
+  * The report is clear, concise, well formatted, and professional
+  * All required information provided in sufficient detail
+  * Demonstrates critical reflection **supported by evidence** from assignments 2, 4 and 5
+  * Shows the marker that the student was engaged and understood how the material in the course (e.g., requirements analysis) was reflected in the project (or not!)
+
 
 # Late Submissions
 No late submissions. 
